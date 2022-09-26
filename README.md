@@ -1,5 +1,37 @@
 # Text_Editor
 
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+
+## Table of Content
+- [Description](#description)
+- [Usage Information](#usage)
+- [License](#license)
+- [Contributor](#contributor)
+- [Contact Information](#contact)
+
+## Description
+
+
+<img src="./assets/">
+
+## Usage
+
+
+## License
+
+[ISC](https://choosealicense.com/licenses/isc/) license
+
+## Contributor
+
+Jason South
+
+## Contact
+Jason South <br/>
+GitHub username: jsouth75 <br/>
+Email: jason.south@me.com
+
+
+
 ## Your Task
 
 Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
@@ -8,11 +40,6 @@ To build this text editor, you will start with an existing application and imple
 
 You will deploy this full-stack application to Heroku using the [Heroku Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide).
 
-## User Story
-
-AS A developer
-I WANT to create notes or code snippets with or without an internet connection
-SO THAT I can reliably retrieve them for later use
 
 ## Acceptance Criteria
 
